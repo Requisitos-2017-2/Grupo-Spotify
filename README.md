@@ -8,3 +8,4 @@
 | Álax de Carvalho Alves | alaxallves@gmail.com | [alaxalves](https://github.com/alaxalves) |
 | Filipe Coelho Hilário Barcelos | filipekn4@gmail.com | [FilipeKN4](https://github.com/FilipeKN4) |
 | Igor Araujo de Sousa | igotaraujo97@gmail.com | [zero101010](https://github.com/zero101010) |
+| Guilherme Willer | guilhermewiller@gmail.com | [guigawiller](http://github.com/guigawiller) |
